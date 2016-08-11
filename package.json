@@ -1,0 +1,16 @@
+{
+  "name": "gl-simpleTextureGenerator",
+  "description": "generates checkerboard test textures",
+  "version": "0.0.0",
+  "keywords": [
+    "webgl",
+    "texture"
+  ],
+  "repository": "github.com:Ramshackle-Jamathon/gl-simpleTextureGenerator.git",
+  "author": "Joseph Van Drunen <josephvandrunen@gmail.com>",
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies": {
+    "ndarray": "^1.0.18"
+  }
+}
